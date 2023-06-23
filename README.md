@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **myofsp@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/qyU15](https://shorturl.at/qyU15)
+- 📄 Know about my experiences [CV](https://shorturl.at/qyU15)
 
 - ⚡ Fun fact **HUMAN acts like a "machine" in front of their BOSS**
 
