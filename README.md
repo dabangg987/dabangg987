@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://png.pngtree.com/background/20210709/original/pngtree-the-internet-geometric-background-business-picture-image_912350.jpg)]-->
 <h1 align="center">Hi 👋, I'm Devang Gangwar</h1>
-<h3 align="center">Let machines do work for us👍</h3>
+<h3 align="center">LET MACHINE DO WORK FOR US👍</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dabangg987&label=Profile%20views&color=0e75b6&style=flat" alt="dabangg987" /> </p>
