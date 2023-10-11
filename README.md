@@ -3,7 +3,7 @@
 <h3 align="center">LET MACHINE DO WORK FOR US👍</h3>
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dabangg987&label=Profile%20views&color=0e75b6&style=flat" alt="dabangg987" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dabangg987&label=Profile%20views&color=0e75b6&style=flat" alt="dabangg987" /> </p>
 
 - 📫 How to reach me **myofsp@gmail.com**
 
